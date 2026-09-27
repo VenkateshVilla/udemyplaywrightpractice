@@ -1,0 +1,19 @@
+{
+  "name": "ts_learn",
+  "version": "1.0.0",
+  "description": "learn ts",
+  "keywords": [
+    "learn",
+    "typescript"
+  ],
+  "license": "ISC",
+  "author": "Venkatesh",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "typescript": "^7.0.2"
+  }
+}
